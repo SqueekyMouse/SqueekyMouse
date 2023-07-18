@@ -3,7 +3,7 @@
 - 🔭 I’m a Linux Admin with tons of exp in web/cloud hosting, AWS etc. and IAM(PingIdentity)!!!
 - 🌱 I’m Kubernetes certified (KCA)!
 - 🌱 I’m currently getting into Python development!
-- 💬 Ask me about Linux, Bash, Kubernetes, AWS, Python!
+- 💬 Ask me about Linux, Bash, Kubernetes, Ansible, AWS, Python!
 - 📫 How to reach me: Mail!
 - ⚡ Fun fact: Jamming on electric guitars!
 
