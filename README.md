@@ -7,7 +7,7 @@
 - 🔭 I've done IAM federation configs on PingIdentity tools ie. SAML, OAuth/OIDC, ROPC etc. and scripting for automating/backend configs, password rotation etc. for PingFederate/Access. 
 - 💬 Ask me about Linux, Bash, Kubernetes, Ansible, AWS, Python, Terraform or anything related!
 - 📫 How to reach me: Mail!
-- ⚡ Fun fact: Jamming on electric guitars!
+- ⚡ Fun fact: Jamming on Electric Guitars!
 
 <!--
 **SqueekyMouse/SqueekyMouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
