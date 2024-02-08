@@ -6,7 +6,7 @@
 - 🌱 I'm into scripting in a bunch ie. Bash, Python/YAML/Json, Java/Groovy, Go-sprig/Jinja templating etc.
 - 🔭 I've done IAM federation configs on PingIdentity tools ie. SAML, OAuth/OIDC, ROPC etc. and scripting for automating/backend configs, password rotation etc. for PingFederate/Access. 
 - 💬 Ask me about Linux, Bash, Kubernetes, Ansible, AWS, Python, Terraform or anything related!
-- 📫 How to reach me: Mail!
+- 📫 How to reach me: Mail squeeky.mouse@gmail.com
 - ⚡ Fun fact: Jamming on Electric Guitars!
 
 <!--
