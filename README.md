@@ -5,6 +5,7 @@
 - 🌱 I’m Terraform certified ie. HashiCorp Certified: Terraform Associate (003)!!
 - ⚡Credly: credly.com/users/sreejithms/badges
 - 🌱 I’m into Python development, CICD tools(Jenkins, Git/GitLab), IAC tools(Ansible, Terraform, Puppet, Chef), containers/orchestration(Kubernetes/Helm, Docker/Compose)!
+- 🌱 I’m into AWS Automation with Python and Boto3!
 - 🌱 I'm into scripting in a bunch ie. Bash, Python/YAML/Json, Java/Groovy, Go-sprig/Jinja/HCL/Ruby templating etc.
 - 🔭 I've done IAM federation configs on PingIdentity tools ie. SAML, OAuth/OIDC, ROPC etc. and scripting for automating/backend configs, password rotation etc. for PingFederate/Access. 
 - 💬 Ask me about Linux, Bash, Kubernetes, Ansible, AWS, Python, Terraform or anything related!
